@@ -35,7 +35,6 @@ function EditeJobPage({updateJobSubmit}) {
         }
 
         const res = await updateJobSubmit(updatedJob);
-        // console.log(res);
         if (res) toast.success('JOD EDITED SUCCESSFULLY')
         return navigate(`/jobs/${id}`);
 
