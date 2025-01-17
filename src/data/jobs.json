@@ -1,25 +1,11 @@
 {
   "jobs": [
     {
-      "id": "1",
-      "title": "Senior React Developer",
-      "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
-      "location": "Boston, MA",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "NewTek Solutions",
-        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
-        "contactEmail": "contact@teksolutions.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
       "id": "2",
-      "title": "Front-End Engineer (React & Redux)",
+      "title": "Front-End Engineer (React & Redux) UPDATED",
       "type": "Full-Time",
-      "location": "Miami, FL",
       "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "location": "Miami, FL",
       "salary": "$70K - $80K",
       "company": {
         "name": "Veneer Solutions",
@@ -82,6 +68,76 @@
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "a68e",
+      "title": "Aliqua Nisi blandit",
+      "type": "Internship",
+      "description": "Rerum similique sit ",
+      "location": "Qui explicabo Dolor",
+      "salary": "$90K - 100K",
+      "company": {
+        "name": "Middleton Mclaughlin Associates",
+        "description": "Illum adipisicing e",
+        "contactEmail": "doxypupoc@mailinator.com",
+        "contactPhone": "+1 (186) 314-4349"
+      }
+    },
+    {
+      "id": "59d2",
+      "title": "Sint quo non eum eo",
+      "type": "Part-Time",
+      "description": "Ullam aute possimus",
+      "location": "Maiores maxime id de",
+      "salary": "$150K - 175K",
+      "company": {
+        "name": "Charles and Campos Plc",
+        "description": "Eius nulla sint exe",
+        "contactEmail": "faqevarab@mailinator.com",
+        "contactPhone": "+1 (204) 777-2255"
+      }
+    },
+    {
+      "id": "e8eb",
+      "title": "Voluptatum ea labore",
+      "type": "Full-Time",
+      "description": "Ullam ut quaerat in ",
+      "location": "Laborum Velit susci",
+      "salary": "$80K - 90K",
+      "company": {
+        "name": "Beck and Pugh LLC",
+        "description": "Ullam qui esse aut ",
+        "contactEmail": "zikireh@mailinator.com",
+        "contactPhone": "+1 (363) 906-1116"
+      }
+    },
+    {
+      "id": "2c15",
+      "title": "Culpa est reiciendis",
+      "type": "Internship",
+      "description": "Magna do qui minim e",
+      "location": "Et expedita ratione ",
+      "salary": "$90K - 100K",
+      "company": {
+        "name": "Barnes and Bryan Co",
+        "description": "Doloribus ipsa eos",
+        "contactEmail": "tykotobah@mailinator.com",
+        "contactPhone": "+1 (844) 367-5607"
+      }
+    },
+    {
+      "id": "30a3",
+      "title": "Aut cupiditate venia",
+      "type": "Remote",
+      "description": "Elit dicta expedita",
+      "location": "Sit qui tempor temp",
+      "salary": "$50K - 60K",
+      "company": {
+        "name": "Bridges and Shaffer Co",
+        "description": "Ex sequi officia vol",
+        "contactEmail": "gegijes@mailinator.com",
+        "contactPhone": "+1 (515) 301-8542"
       }
     }
   ]
